@@ -1,6 +1,7 @@
 .content-pic {
 	display: flex;
 	list-style: none;
+        text-align: center;
 	justify-content: space-evenly;
 }
 .content-pic1{
