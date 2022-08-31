@@ -1,20 +1,18 @@
 .content-pic {
 	display: flex;
 	list-style: none;
-	padding: 0 20px 0 20px;
 	justify-content: space-evenly;
 }
 .content-pic1{
 	cursor: pointer;
-	margin: 10px 20px 0 0;
+	margin: 0 10px 0 0;
 }
 .content-pic2{
 	cursor: pointer;
-	margin: 10px 0 0 0;
 }
 .content-pic3{
 	cursor: pointer;
-	margin: 10px 0 0 20px;
+	margin: 0 0 0 10px;
 }
 .test2 img {
     margin-top: 50px;
