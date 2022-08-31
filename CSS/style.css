@@ -1,5 +1,8 @@
-.test {
-    text-align: center;
+.content-pic {
+	display: flex;
+	list-style: none;
+	padding: 0 20px 0 20px;
+	justify-content: space-evenly;
 }
 .test2 img {
     margin-top: 50px;
