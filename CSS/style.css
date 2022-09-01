@@ -1,8 +1,7 @@
 .content-pic {
 	display: flex;
 	list-style: none;
-        text-align: center;
-        justify-content: space-evenly;
+        justify-content: space-between;
 }
 .content-pic1{
 	margin: 0 10px 0 0;
