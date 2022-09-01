@@ -5,14 +5,9 @@
 	justify-content: space-evenly;
 }
 .content-pic1{
-	cursor: pointer;
 	margin: 0 10px 0 0;
 }
-.content-pic2{
-	cursor: pointer;
-}
 .content-pic3{
-	cursor: pointer;
 	margin: 0 0 0 10px;
 }
 .test2 img {
